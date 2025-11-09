@@ -55,8 +55,8 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 ¡Echa un vistazo a mi actividad!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreus710&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreus710&layout=compact&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -65,5 +65,4 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes o a charlar sobre tecnología!
 
-* **LinkedIn:** [https://linkedin.com/in/tu-usuario-linkedin](https://linkedin.com/in/tu-usuario-linkedin)
-* **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+* **LinkedIn:** [www.linkedin.com/in/andres-moralesu](www.linkedin.com/in/andres-moralesu)
