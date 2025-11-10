@@ -63,6 +63,4 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 
 ### 📫 ¿Conectamos?
 
-¡Siempre estoy abierto a colaborar en proyectos interesantes o a charlar sobre tecnología!
-
 * **LinkedIn:** [www.linkedin.com/in/andres-moralesu](www.linkedin.com/in/andres-moralesu)
