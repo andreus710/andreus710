@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andrés 👋
 
-### 👨‍💻 Ingeniero de Software en Formación | Apasionado por los Datos, la IA y el Desarrollo
+### 👨‍💻 Ingeniero de Software en Formación | Apasionado por los Datos, la IA y el Desarrollo 
 
 Soy un profesional en formación de Ingeniería de Software, con un enfoque claro en el **análisis de datos, la visualización y la mejora de procesos**.
 
